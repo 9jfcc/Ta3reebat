@@ -1,0 +1,8 @@
+*.zip
+*.7z
+*.rar
+*.exe
+bin/
+obj/
+*.bak
+_ArabicBackup/
