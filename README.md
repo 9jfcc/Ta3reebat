@@ -17,12 +17,12 @@
 
 ## 📥 جدول التحميل المباشر للتعريبات
 
-| اللعبة | صورة الغلاف | الحجم | رابط التحميل المباشر |
-| :--- | :---: | :---: | :---: |
-| **Marvel's Spider-Man Remastered** | <img src="assets/spiderman_remastered.jpg" width="130" /> | **114 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/SpiderMan_Remastered_Arabic.zip) |
-| **Tails of Iron** | <img src="assets/tails_of_iron.jpg" width="130" /> | **113 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/Tails_of_Iron_Arabic.zip) |
-| **Anomaly Agent** | <img src="assets/anomaly_agent.jpg" width="130" /> | **249 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/Anomaly_Agent_Arabic.zip) |
-| **Anomaly President** | <img src="assets/anomaly_president.jpg" width="130" /> | **298 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/Anomaly_President_Arabic.zip) |
+| اللعبة | صورة الغلاف | الإصدار / التحديث المتوافق | المصدر المجرب | الحجم | رابط التحميل المباشر |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Marvel's Spider-Man Remastered** | <img src="assets/spiderman_remastered.jpg" width="130" /> | **v3.618.0.0** | مكركة (DODI-Repacks) | **114 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/SpiderMan_Remastered_Arabic.zip) |
+| **Tails of Iron** | <img src="assets/tails_of_iron.jpg" width="130" /> | **أحدث إصدار (Build 20410601)** | رسمية (Steam) | **113 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/Tails_of_Iron_Arabic.zip) |
+| **Anomaly Agent** | <img src="assets/anomaly_agent.jpg" width="130" /> | **v1.1.0.07 (Build 15689795)** | رسمية (Steam) | **249 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/Anomaly_Agent_Arabic.zip) |
+| **Anomaly President** | <img src="assets/anomaly_president.jpg" width="130" /> | **v0.5.0 (v0.5.0.11)** | مكركة (GameDrive.org) | **298 MB** | [⬇️ **تحميل التعريب**](https://github.com/9jfcc/Ta3reebat/releases/download/v1.0.0/Anomaly_President_Arabic.zip) |
 
 ---
 
@@ -30,6 +30,8 @@
 
 ### 1. Marvel's Spider-Man Remastered
 * **الوصف**: تعريب كامل وشامل لقصة وحوارات وقوائم ومهام لعبة مارفل سبايدر مان.
+* **الإصدار المتوافق**: `v3.618.0.0` (Update 3.618.0.0).
+* **المصدر المجرب**: مكركة من **DODI-Repacks** (مبنية على RUNE / متوافقة أيضاً مع Steam).
 * **المميزات**:
   * تعريب النصوص والحوارات وقوائم التطوير والترقيات.
   * تعديل نظيف لملفات الأرشيف (`toc` و `mod0`).
@@ -41,6 +43,8 @@
 
 ### 2. Tails of Iron
 * **الوصف**: تعريب شامل لقصة ومغامرة الفأر ريجي، يشمل القوائم والمهام والحوارات والأسلحة.
+* **الإصدار المتوافق**: أحدث إصدار رسمي على ستيم (Build ID: `20410601`) يشمل إضافتي *Bright Fir Forest* و *Bloody Whiskers*.
+* **المصدر المجرب**: منصة **Steam** (النسخة الأصلية الرسمية - AppID: `1283410`).
 * **المميزات**:
   * خط عربي متصل بالكامل وبدون أي تقطيع.
   * محاذاة دقيقة ومريحة لإحصائيات العتاد والمقاومات.
@@ -51,6 +55,8 @@
 
 ### 3. Anomaly Agent
 * **الوصف**: تعريب كامل للحوارات، شجرة المهارات، شاشات التطوير والقوائم.
+* **الإصدار المتوافق**: `v1.1.0.07` (Build ID: `15689795` - تحديث طور Rogue Agent).
+* **المصدر المجرب**: منصة **Steam** (النسخة الأصلية الرسمية - AppID: `2378620`).
 * **المميزات**:
   * خط عربي مدمج عالي الوضوح متناسق مع فن البكسل.
   * دعم كامل للكتابة والاتجاه من اليمين إلى اليسار (RTL).
@@ -61,6 +67,8 @@
 
 ### 4. Anomaly President
 * **الوصف**: تعريب شامل للعبة الرئاسة والاستراتيجية مع إصلاحات محاذاة النص.
+* **الإصدار المتوافق**: `v0.5.0` (الإصدار الداخلي: `v0.5.0.11` Early Access).
+* **المصدر المجرب**: مكركة من موقع **GameDrive.org** (AppID: `3156330`).
 * **المميزات**:
   * ظهور سليم لكافة عناوين مناطق خريطة العالم.
   * توسيط تلقائي لأزرار الاختيارات والتأكيد (نعم / لا).
